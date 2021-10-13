@@ -394,7 +394,7 @@ h4 {
 
     h1 {
         font-size: 200%;
-        padding-left: unset;
+        padding-left: 50px;
         justify-content: center;
     }
 
@@ -409,7 +409,7 @@ h4 {
     h3 {
         font-size: 250%;
         margin-top: -125px;
-        align-content: center;
+        align-self: center;
     }
 
     h2 {
