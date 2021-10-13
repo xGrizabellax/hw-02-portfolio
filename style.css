@@ -409,7 +409,7 @@ h4 {
     h3 {
         font-size: 250%;
         margin-top: -125px;
-        text-align: center;
+        align-content: center;
     }
 
     h2 {
