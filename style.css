@@ -208,11 +208,11 @@ p {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    font-size: 70%;
 }
 
 .info li {
     margin: 15px;
-
     background: linear-gradient(#fff9ac, #f8eb75);
     color: black;
     box-shadow: 15px 15px 10px black;
