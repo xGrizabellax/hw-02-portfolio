@@ -384,6 +384,14 @@ h4 {
     .mini-02, .mini-01, .portfolio {
         width: 100%;
     }
+
+    .contact-w-nav {
+        width: 75%;
+    }
+
+    .info {
+        font-size: 65%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -452,10 +460,10 @@ h4 {
     }
 
     .contact-w-nav {
-        width: 60%;
+        width: 80%;
     }
 
     .info {
-        font-size: 30%;
+        font-size: 75%;
     }
 }
