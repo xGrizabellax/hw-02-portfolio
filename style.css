@@ -425,6 +425,11 @@ h4 {
     .young-sam, .wedding-sam {
         width: 300px;
         height: 225px;
+        margin-left: unset;
+    }
+
+    .wedding-sam {
+        transform: unset;
     }
 
     .pencil-paper, .old-phone {
